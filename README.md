@@ -1,7 +1,15 @@
-# Flocking
+
+# PyGame realization of Flocking
+
+# 1 First slider: align 
+```Steer towards the average heading of local flockmates```
+
+# 2 Second slider: cohesion
+```Steer to move toward the average position of local flockmates```
+ 
+# 3 Third slider: separation
+```Steer to avoid crowding local flockmates```
 
 
 
-
-https://github.com/Sovraska/Flocking/assets/92330086/a744c67a-9f63-4687-a7da-fbeebe6ade7e
-
+p5 is a sketch with bad performance 
