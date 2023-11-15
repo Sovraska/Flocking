@@ -15,4 +15,5 @@ Meaning of sliders change perception radius of each rule
   
 Example
 
-![image](https://github.com/Sovraska/Flocking/assets/92330086/88b1b5c6-6438-4275-af29-333d37e511d6)
+![image](https://github.com/Sovraska/Flocking/assets/92330086/2f8e816b-e026-4218-9a61-ab0e2dc90bad)
+
