@@ -1,5 +1,5 @@
 
-# PyGame realization of ![Flocking](https://codeheir.com/2021/03/27/the-flocking-algorithm/)
+# PyGame realization of [Flocking](https://codeheir.com/2021/03/27/the-flocking-algorithm/)
 
 
 
