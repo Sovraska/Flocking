@@ -4,6 +4,8 @@
 
 
 Meaning of sliders 
+
+
 sliders change perception radius of each rule
 
   1 First slider: align 
